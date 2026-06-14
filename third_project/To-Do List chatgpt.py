@@ -1,6 +1,5 @@
 print("=== Welcome to To-Do List Program ===")
 
-# قائمة فارغة لتخزين المهام
 to_do_list = ["aya", "esraa", "zainab"]
 
 # ----- Functions -----
